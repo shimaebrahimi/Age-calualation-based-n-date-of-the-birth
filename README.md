@@ -1,2 +1,2 @@
 # Age calualation based n date of the birth
-some of my python projects is here
+This code calculate your age based on your date of the birth that you entered
